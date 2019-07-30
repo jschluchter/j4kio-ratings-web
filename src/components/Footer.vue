@@ -25,7 +25,7 @@
    <div class="row at-row flex-center flex-middle">
       <div class="col-lg-24">
         <h1>
-          j4kio
+          j4kio Rocks!
           </h1>
       </div>
    </div>
